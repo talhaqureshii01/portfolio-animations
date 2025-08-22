@@ -1,0 +1,28 @@
+[
+    {
+      "institution": "University of Greenwich",
+      "degree": "MSc Data Science",
+      "start": "2023-09",
+      "end": "2024-09",
+      "description": "Currently pursuing an MSc in Data Science, focusing on advanced machine learning, big data analytics, and statistical modeling. This program emphasizes the practical application of data science techniques to solve real-world problems across various industries.",
+      "highlights": [
+        "Developing expertise in machine learning, big data, and statistical analysis.",
+        "Hands-on experience with Python, data visualization, and cloud platforms.",
+        "Collaborating on projects to apply data science techniques in real-world scenarios."
+      ]
+    },
+    {
+      "institution": "University of Lahore",
+      "degree": "Bachelor of Computer Science",
+      "start": "2015-09",
+      "end": "2020-01",
+      "description": "Completed a Bachelor of Computer Science with a focus on mastering core programming concepts, software engineering, and application development. Developed expertise in both front-end and back-end technologies along with a solid understanding of data structures and algorithms.",
+      "highlights": [
+        "Proficient in programming languages such as C++, Java, Python, and JavaScript, with a deep understanding of Object-Oriented Programming (OOP) principles.",
+        "Strong foundation in data structures (e.g., arrays, linked lists, trees, and hash maps) and algorithmic problem-solving.",
+        "Hands-on experience with Android app development using Java and Android Studio.",
+        "Worked extensively on relational database systems such as MySQL and SQL Server, and acquired knowledge in database management and normalization.",
+        "Developed software engineering projects, focusing on efficient coding practices and collaborative teamwork."
+      ]
+    }
+  ]

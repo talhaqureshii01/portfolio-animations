@@ -1,0 +1,59 @@
+[
+    {
+      "company": "Berks Insulation",
+      "role": "Software Engineer",
+      "start": "2023-09",
+      "end": "2024-01",
+      "logo": "img/Berks.png",
+      "description": "As a Software Engineer, I have been deeply involved in CRM development, using the .NET MVC framework to design and enhance crucial features for better business operations. Working collaboratively with a team, I successfully implemented new functionalities that improved system performance, while ensuring the CRM platform remained robust and scalable. Additionally, I contributed to project management by meeting deadlines and adhering to best coding practices. Continuous learning and staying updated with industry trends has allowed me to deliver optimal results and drive innovations within the CRM system.",
+      "responsibilities": [
+        "Successfully developed and implemented key features in CRM using .NET MVC.",
+        "Enhanced system performance and scalability, addressing complex business needs.",
+        "Collaborated with a development team to ensure timely project delivery and code quality."
+      ],
+      "tags": ["mvc", ".net core", "javascript", "jquery", "html", "css", "aws", "sql"]
+    },
+    {
+      "company": "Cinnova Technologies",
+      "role": "Software Engineer",
+      "start": "2022-09",
+      "end": "2023-09",
+      "logo": "img/Cinnova.svg",
+      "description": "At Cinnova Technologies, I worked on a team to develop and maintain several web applications, collaborating closely with the design team to ensure seamless translation of wireframes and mockups into user-friendly interfaces. I implemented new features using React, Redux, and RESTful APIs, while ensuring code quality through unit and integration testing. Additionally, I applied robust, scalable design patterns and best practices to maintain code flexibility and reliability. Utilizing project management tools like Jira, I tracked tasks and ensured timely project delivery. Through thorough testing and debugging, I ensured the stability and high quality of all developed applications.",
+      "responsibilities": [
+        "Developed and maintained web applications in a collaborative environment.",
+        "Implemented features using React, Redux, and RESTful APIs.",
+        "Conducted unit and integration testing to ensure application performance."
+      ],
+      "tags": ["react", "redux", "restful apis", "javascript", "html", "css", "jira"]
+    },
+    {
+      "company": "Techverx",
+      "role": "Software Engineer",
+      "start": "2021-07",
+      "end": "2023-09",
+      "logo": "img/techverx.jpg",
+      "description": "As a React.js Developer, I collaborated with cross-functional teams, including product, QA, and design, to define requirements, design interfaces, and ensure a seamless user experience. I translated wireframes and design prototypes into pixel-perfect UI/UX implementations with a focus on performance, responsiveness, and aesthetics. By leveraging design patterns, I enhanced code modularity, maintainability, and scalability. Additionally, I incorporated tools like AWS, Jenkins, CircleCI, and GitHub Actions to automate app distribution and streamline the deployment process.",
+      "responsibilities": [
+        "Collaborated with cross-functional teams to define and meet project goals.",
+        "Translated design prototypes into highly performant, responsive UI/UX implementations.",
+        "Utilized AWS and Jenkins for seamless CI/CD pipelines and app distribution.",
+        "Implemented automation using CircleCI and GitHub Actions for faster deployments."
+      ],
+      "tags": ["react", "aws", "jenkins", "circleci", "github actions", "javascript", "ui/ux"]
+    },
+    {
+      "company": "Pixarsart",
+      "role": "Software Engineer",
+      "start": "2020-08",
+      "end": "2021-07",
+      "logo": "img/pixarsart.jpg",
+      "description": "I contributed to the development and maintenance of web applications using HTML, CSS, React, Redux, and JavaScript. Collaborating closely with the design team, I ensured pixel-perfect implementation of user interfaces and maintained design consistency throughout the applications. Additionally, I worked extensively with platforms such as WordPress, Wix, and Shopify, building and customizing e-commerce stores to meet diverse client requirements.",
+      "responsibilities": [
+        "Developed and maintained web applications using React, Redux, HTML, CSS, and JavaScript.",
+        "Collaborated with design teams for seamless UI implementation and consistency.",
+        "Built and customized e-commerce stores using WordPress, Wix, and Shopify."
+      ],
+      "tags": ["react", "redux", "html", "css", "javascript", "wordpress", "wix", "shopify", "e-commerce"]
+    }
+  ]

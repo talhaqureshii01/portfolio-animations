@@ -1,0 +1,26 @@
+[
+    {
+      "name": "GitHub",
+      "href": "https://github.com/talhaqureshii01",
+      "iconClass": "fab fa-github",
+      "display": "github.com/talhaqureshii01"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:talha_rauf1@yahoo.com",
+      "iconClass": "fas fa-envelope",
+      "display": "talha_rauf1@yahoo.com"
+    },
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/talha-rauf-0213261b1",
+      "iconClass": "fab fa-linkedin-in",
+      "display": "linkedin"
+    },
+    {
+      "name": "Facebook",
+      "href": "https://www.facebook.com/talhaqureshii01",
+      "iconClass": "fab fa-facebook",
+      "display": "facebook"
+    }
+  ]

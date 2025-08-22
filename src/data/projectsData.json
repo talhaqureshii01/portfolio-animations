@@ -1,0 +1,38 @@
+[
+    {
+      "title": "Tuneregistry",
+      "imgSrc": "img/tuneregistry1.png",
+      "modalTarget": "project-1-modal",
+      "aspectRatio": "is-3by2"
+    },
+    {
+      "title": "Pixarsart",
+      "imgSrc": "img/pixarsart1.png",
+      "modalTarget": "project-2-modal",
+      "aspectRatio": "is-4by3"
+    },
+    {
+      "title": "Big Banyan",
+      "imgSrc": "img/bigbanyan.png",
+      "modalTarget": "project-3-modal",
+      "aspectRatio": "is-4by3"
+    },
+    {
+      "title": "Maax AI",
+      "imgSrc": "img/maax-ai2.png",
+      "modalTarget": "project-4-modal",
+      "aspectRatio": "is-4by3"
+    },
+    {
+      "title": "Star Wars",
+      "imgSrc": "img/starwars.png",
+      "modalTarget": "project-5-modal",
+      "aspectRatio": "is-4by3"
+    },
+    {
+      "title": "Polanko",
+      "imgSrc": "img/polanko.png",
+      "modalTarget": "project-6-modal",
+      "aspectRatio": "is-4by3"
+    }
+  ]

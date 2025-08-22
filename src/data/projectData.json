@@ -1,0 +1,76 @@
+[
+    {
+      "id": 1,
+      "title": "Tuneregistry",
+      "thumbnail": "img/tuneregistry1.png",
+      "modalId": "project-1-modal",
+      "aspectRatio": "is-3by2",
+      "carouselImages": [
+        "img/carousel/tuneregistry1.png",
+        "img/carousel/tuneregistry2.png"
+      ],
+      "description": "TuneRegistry is a comprehensive music rights and royalty management platform designed to simplify the process of registering, managing, and monetizing musical works. Built for independent artists, songwriters, and music publishers, it allows users to register their songs with various performing rights organizations (PROs), digital service providers, and other rights administrators worldwide. With an intuitive interface, TuneRegistry ensures that creatives can manage their music catalogs, track royalties, and claim ownership rights with ease. By centralizing these tasks, the platform helps maximize revenue streams and ensures that creators get properly compensated for their work across all digital platforms.",
+      "tags": ["react js", "typescript", "jest", "django", "sql", "docker"]
+    },
+    {
+      "id": 2,
+      "title": "Pixarsart",
+      "thumbnail": "img/pixarsart1.png",
+      "modalId": "project-2-modal",
+      "carouselImages": [
+        "img/carousel/pixarsart1.png",
+        "img/carousel/pixarsart2.png"
+      ],
+      "description": "Pixarsart is a full-service web and mobile app development agency, specializing in delivering high-quality, custom digital solutions. Their expertise spans across various industries, offering services such as website development, e-commerce platforms, mobile applications, and digital marketing strategies. Pixarsart is known for combining creativity with technical excellence to help businesses build engaging digital experiences that drive growth and user engagement. With a focus on innovation and user-centered design, Pixarsart crafts tailored solutions that align with clients' business objectives and brand vision.",
+      "tags": ["react js", "typescript", "jest", "sql", "wordpress", "shopify", "wix", "squarespace"]
+    },
+    {
+      "id": 3,
+      "title": "Big Banyan",
+      "thumbnail": "img/bigbanyan.png",
+      "modalId": "project-3-modal",
+      "carouselImages": [
+        "img/carousel/bigbanyan.png",
+        "img/carousel/bigbanyan2.png"
+      ],
+      "description": "Big Banyan Digital is a boutique digital marketing agency specializing in SEO, social media management, and web/app development. With a focus on personalized marketing solutions, they cater to a wide range of businesses globally. Their core services include content creation, graphic design, and comprehensive marketing management. The agency boasts an experienced team and an extensive client base, making them a trusted partner in the digital landscape. Through their projects and blog, they demonstrate expertise in delivering innovative and scalable digital solutions.",
+      "tags": ["react js", "typescript", "jest", "sql", "wordpress", "shopify", "wix", "squarespace"]
+    },
+    {
+      "id": 4,
+      "title": "Maax AI",
+      "thumbnail": "img/maax-ai2.png",
+      "modalId": "project-4-modal",
+      "carouselImages": [
+        "img/carousel/maax-ai2.png",
+        "img/carousel/maax-ai.png"
+      ],
+      "description": "Maax AI is an advanced platform offering comprehensive AI-driven solutions for customer support and sales automation. The platform allows businesses to integrate AI into their systems via APIs, supporting both sales and customer service use cases. With tools for setting up knowledge bases, automating conversations, and using platforms like Zapier for integration, Maax AI helps companies streamline their operations. The documentation also includes technical guides, prompt building, and setup instructions for developers to utilize the APIs efficiently.",
+      "tags": ["django", "flask", "cloud functions", "open ai", "rabbitmq", "kafka", "gcp", "docker", "redis", "celery", "postgresql", "kubernetes", "rest api"]
+    },
+    {
+      "id": 5,
+      "title": "Star Wars",
+      "thumbnail": "img/starwars.png",
+      "modalId": "project-5-modal",
+      "carouselImages": [
+        "img/carousel/starwars.png",
+        "img/carousel/starwars2.png"
+      ],
+      "description": "Star Wars: Legends of the Galaxy is a community-driven fan-made roleplaying game based on the Star Wars universe. Players can create their own characters, join game tables, and participate in immersive campaigns set in a galaxy far, far away. The website offers tools for character creation, event scheduling, and adventure logs, enhancing the storytelling experience for both game masters and players. It’s a hub for Star Wars fans to engage in roleplaying adventures and contribute to an evolving narrative through collaborative gameplay.",
+      "tags": ["react js", "typescript", "jest", "sql", "wordpress", "shopify", "wix", "squarespace"]
+    },
+    {
+      "id": 6,
+      "title": "Polanko",
+      "thumbnail": "img/polanko.png",
+      "modalId": "project-6-modal",
+      "carouselImages": [
+        "img/carousel/polanko.png",
+        "img/carousel/polanko2.png"
+      ],
+      "description": "This project appears to offer business consultancy services aimed at driving success for clients through focused strategies and solutions. It highlights services such as collaborative consulting, change management, and outcome tracking to help businesses improve efficiency and growth. Serving industries like hospitality, retail, cybersecurity, and government, it provides tailored solutions based on industry-specific needs. The site encourages businesses to schedule a free consultation to explore how the consultancy can assist with business strategy and problem-solving.",
+      "tags": ["react js", "typescript", "jest", "sql", "wordpress", "shopify", "wix", "squarespace"]
+    }
+  ]
+  

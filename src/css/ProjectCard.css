@@ -1,0 +1,48 @@
+.project-card {
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  background-color: #1a1a1a; /* default dark color */
+}
+
+.project-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 10px 25px rgba(0, 255, 255, 0.6); /* slightly lighter glow */
+  background-image: linear-gradient(
+    90deg,
+    rgba(0, 255, 255, 0.08) 0%,
+    /* subtle light start */ rgba(0, 255, 255, 0.2) 50%,
+    /* peak in middle */ rgba(0, 255, 255, 0.08) 100% /* subtle light end */
+  );
+  background-size: 200% 100%;
+  background-position: left center;
+  animation: sweep-gradient 1.5s forwards;
+}
+
+/* Sweep effect from left to right */
+@keyframes sweep-gradient {
+  from {
+    background-position: left center;
+  }
+  to {
+    background-position: right center;
+  }
+}
+
+/* Overlay Title */
+.project-card .overlay {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 0.5rem;
+  text-align: center;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
+  color: #fff;
+  font-weight: bold;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.project-card:hover .overlay {
+  opacity: 1;
+}
