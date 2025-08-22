@@ -1,4 +1,4 @@
-# Node modules
+x# Node modules
 node_modules/
 # Build output
 dist/
@@ -33,4 +33,5 @@ Thumbs.db
 # Optional: package lock files if using yarn or npm (depends on team preference)
 # package-lock.json
 # yarn.lock
+/public/
 /node_modules/
