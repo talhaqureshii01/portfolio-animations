@@ -23,7 +23,4 @@ const App = () =>  {
     </>
   )
 }
-
-// ❌ Wrong: export default App();
-// ✅ Correct:
 export default App;

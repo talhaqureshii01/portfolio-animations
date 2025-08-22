@@ -1,8 +1,10 @@
 import React from "react";
+import { useGradientColors } from "../hooks/useGradientColors";
 
 export default function EducationCard({ institution, degree, start, end, description, highlights, formatDate }) {
+    useGradientColors();
   return (
-    <div className="col-6 d-flex mb-3">
+    <div className="col-12 col-md-6 d-flex mb-3"> {/* Responsive column */}
       <div className="card flex-fill d-flex flex-column p-0">
         <div className="card-content flex-grow-1">
           <div className="content">

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function ExperienceCard({ data }) {
   return (
-    <div className="col-6 d-flex mb-3">
+    <div className="col-12 col-md-6 d-flex mb-3"> {/* Responsive column */}
       <div className="card flex-fill d-flex flex-column p-0">
         <div className="card-content d-flex flex-column flex-grow-1">
           <div className="media">
@@ -28,7 +28,6 @@ export default function ExperienceCard({ data }) {
             </ul>
           </div>
 
-          {/* Tags inside card-content, pushed to bottom */}
           <div className="mt-auto">
             <div className="tags">
               {data.tags.map((tag, idx) => (

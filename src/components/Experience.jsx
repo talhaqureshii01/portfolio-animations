@@ -11,12 +11,10 @@ export default function Experience() {
       <div className="container">
         <h1 className="title">Experience</h1>
         <hr />
-        <div className="container">
-          <div className="row gy-3">
-            {experienceData.map((exp, idx) => (
-              <ExperienceCard key={idx} data={exp} />
-            ))}
-          </div>
+        <div className="row gy-3">
+          {experienceData.map((exp, idx) => (
+            <ExperienceCard key={idx} data={exp} />
+          ))}
         </div>
       </div>
     </section>

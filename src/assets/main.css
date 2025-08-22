@@ -2,7 +2,12 @@
 /*! Flickity v2.3.0
 https://flickity.metafizzy.co
 ---------------------------------------------- */
-
+@media screen and (max-width: 768px) {
+  .container {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
+}
 .card {
   position: relative;
   background-color: #1a1a1a !important;
@@ -2105,8 +2110,8 @@ fieldset[disabled] .button {
   width: 100% !important;
   max-width: 100% !important;
   margin: 0 !important;
-  padding-left: 40px !important;
-  padding-right: 40px !important;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 .container.is-fluid {
   max-width: none !important;
